@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 27, 2016, 3:51:17 PM
+    Author     : bintang
+*/
+
+.layout-table {
+    min-width: 1020px !important;
+    /*position: absolute;*/
+}
+.pos #pos{
+    /*padding: 15px;*/
+    padding-right: 30px;
+}
+.pos #list-table-div {
+    min-height: 160px;
+}
+.ps-container {
+    overflow: hidden !important;
+}
+.pos #totaltbl td {
+    vertical-align: middle !important;
+}
+.pos .contents {
+    min-height: 440px;
+    overflow: hidden;
+    padding: 0 5px 15px 0;
+    position: relative;
+}
+.pos .contents #item-list .items {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.pos .contents #item-list .btn-img, .pos .contents #item-list .btn-both {
+    padding: 3px;
+}
+.pos .contents #item-list .btn {
+    text-align: center;
+    width: 120px;
+}
+.product {
+    width: 180px !important; 
+    height: 110px !important;
+}
+.pos #list-item {
+    padding-top: 0px;
+}
+
+.pos .list-table th {
+    text-align: center;
+}
+.pointer {
+    cursor: pointer;
+}
+.pos .input-qty {
+    height: auto;
+    padding: 0;
+}
+.text-middle {
+    vertical-align: middle !important;
+}
